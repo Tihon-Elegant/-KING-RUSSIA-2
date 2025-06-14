@@ -1,0 +1,781 @@
+by T I H O N
+a.bb-code-href-button:hover,a.bb-code-href-button:active,a.bb-code-href-button:focus {
+    background-color: #96836c
+}
+
+a.bb-code-href-button:before {
+    content: "\f360";
+    display: inline-block;
+    text-align: center
+}
+
+a.bb-code-href-button:before {
+    padding: 0 4px
+}
+
+a.bb-code-href-button:hover {
+    color: #b0babc;
+    background-color: #504d4a;
+    border-color: #65615e;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease
+}
+
+a.bb-code-href-button:hover.button--splitTrigger>.button-text {
+    border-right-color: #5d5a56
+}
+
+a.bb-code-href-button:hover.button--splitTrigger>.button-menu {
+    border-left-color: #43403e
+}
+
+a.bb-code-href-button:hover:hover,a.bb-code-href-button:hover:active,a.bb-code-href-button:hover:focus {
+    background-color: #655749
+}
+
+.f5 {
+    color: #fff;
+    background: #ff1866;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f6 {
+    color: #000000;
+    background: #FFE4B5;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f7 {
+    color: #fff;
+    background: #ffa21a;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f8 {
+    color: #fff;
+    background: #14c84b;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f9 {
+    color: #fff;
+    background: #14c84b;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f4 {
+    color: #fff;
+    background: #14c84b;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f3 {
+    color: #fff;
+    background: #000000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f2 {
+    color: #000000;
+    background: #88ecdf;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.f1 {
+    color: #fff;
+    background: #9e18ff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.moroz {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.modr {
+    color: #fff;
+    background: #F08D8D;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.vklad {
+    color: #fff;
+    background: #66f;
+    border-color: #33f;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.sliva {
+    color: #fff;
+    background: #ff5d76;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.legend {
+    color: #fff;
+    background: #c636ff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.gltest {
+    color: #000000;
+    background: #efef12;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.sist {
+    color: #fff;
+    background: #57CDD6;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.mlmoder {
+    color: #fff;
+    background: #87ceeb;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.stmoder {
+    color: #fff;
+    background: #87ceeb;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.zgta {
+    color: #fff;
+    background: #ff74a8;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.techadm {
+    color: #fff;
+    background: #FF4D00;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.adm {
+    color: #fff;
+    background: #ffcc66;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.stadm {
+    color: #fff;
+    background: #ffcc66;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.razrab {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.dima {
+    color: #fff;
+    background: #ff6b82;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.vlad {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.glavsled {
+    color: #fff;
+    background: #004eff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.zamglavsled {
+    color: #fff;
+    background: #004eff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.lider {
+    color: #fff;
+    background: #ffbf00;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.kur {
+    color: #fff;
+    background: #9676f5;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.rykvod {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.userBanner.userBanner--staff {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.pomtech {
+    color: #fff;
+    background: #FF4D00;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.server2a {
+    color: #fff;
+    background: #008000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.server3l {
+    color: #fff;
+    background: #004eff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.server3a {
+    color: #fff;
+    background: #004eff;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.server4a {
+    background: #ffcb00;
+    font-size: 75%;
+    font-size: 11px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px
+}
+
+.server2l {
+    color: #fff;
+    background: #008000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.ban {
+    color: #fff;
+    background: #212428;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.specadm {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+
+.button.button--cta,button.button a.button.button--cta {
+    color: #fff;
+    background: #FFC618;
+    border: none;
+    border-color: #e14f4d
+}
+.server1 {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.ga {
+    color: #fff;
+    background: #008000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.kp {
+    color: #fff;
+    background: #d80000;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.zga {
+    color: #fff;
+    background: #6db36d;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.userBanner {
+    color: #fff;
+    background: #808080;
+    border-color: #a50000;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block
+}
+.p-nav-list .p-navEl.is-selected {
+    color: #FFC618;
+    font-weight: 600;
+    background: #42464d
+}
+
+.blockMessage.blockMessage--error {
+    border-left: 2px solid #c84448;
+    background: #2d3238;
+    color: #c84448
+}
+
+.block-rowMessage.block-rowMessage--warning {
+    border-left: 2px solid #dcda54;
+    background: #383c42;
+    color: white
+}
+
+.block-container .uix_newIndicator {
+    font-size: 12px;
+    color: #fff;
+    background: #FFC618;
+    border-radius: 4px;
+    padding-top: 1px;
+    padding-right: 4px;
+    padding-bottom: 1px;
+    padding-left: 4px
+}
+
+.uix_fabBar .p-title-pageAction .button {
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    padding: 0;
+    font-size: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 10px 0px rgba(0,0,0,0.14),0 1px 18px 0px rgba(0,0,0,0.12),0 3px 5px 0 rgba(0,0,0,0.2);
+    background: #FFC618;
+    color: #fff
+}
+
+.test {
+    color: #00FF1F;
+    background: black;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #008000;
+    font-size: 11px;
+    font-weight: italic
+}
+
+@keyframes AnimNic {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+.pgreen {
+    background-image: linear-gradient(150deg, #32cd32, #008000);
+    color: white;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #32cd32
+}
+
+.porange {
+    background-image: linear-gradient(150deg, #ffbf00, #ff9800);
+    color: white;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #ff9800
+}
+
+.paqua {
+    background-image: linear-gradient(150deg, #03a9f4, #2ebcfc);
+    color: white;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #03a9f4
+}
+
+.pred {
+    background-image: linear-gradient(150deg, #f00, #b22222);
+    color: white;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #f00
+}
+
+.ypred {
+    background-image: linear-gradient(150deg, #ffe218, #ffc018);
+    color: black;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #ffc018
+}
+
+.bpred {
+    background-image: linear-gradient(150deg, #1844ff, #186fff);
+    color: white;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 3px 6px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 6px #1844ff
+}
